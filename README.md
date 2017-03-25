@@ -1,1 +1,1 @@
-Fork and modified from https://github.com/balancap/SSD-Tensorflow
+Forked and modified from https://github.com/balancap/SSD-Tensorflow
